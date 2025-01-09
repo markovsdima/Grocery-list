@@ -1,5 +1,7 @@
 # <h1 align="center">Grocery-list-IOS</h1>
 
+[![Grocery List](https://img.youtube.com/vi/c-ZBguqUWhg/0.jpg)](https://www.youtube.com/watch?v=c-ZBguqUWhg)
+
 # Стек
 
 - SwiftUI
